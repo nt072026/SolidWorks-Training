@@ -1,0 +1,8 @@
+C:\SolidWorks Training Files\API Fundamentals\Lesson11 - Notifications\Case Study\Completed\DotNetNotifications\DotNetNotifications\bin\DotNetNotifications.dll
+C:\SolidWorks Training Files\API Fundamentals\Lesson11 - Notifications\Case Study\Completed\DotNetNotifications\DotNetNotifications\bin\DotNetNotifications.pdb
+C:\SolidWorks Training Files\API Fundamentals\Lesson11 - Notifications\Case Study\Completed\DotNetNotifications\DotNetNotifications\bin\SwVBAddin1.xml
+C:\SolidWorks Training Files\API Fundamentals\Lesson11 - Notifications\Case Study\Completed\DotNetNotifications\DotNetNotifications\bin\DotNetNotifications.tlb
+C:\SolidWorks Training Files\API Fundamentals\Lesson11 - Notifications\Case Study\Completed\DotNetNotifications\DotNetNotifications\bin\SolidWorksTools.dll
+C:\SolidWorks Training Files\API Fundamentals\Lesson11 - Notifications\Case Study\Completed\DotNetNotifications\DotNetNotifications\obj\Debug\DotNetNotifications.dll
+C:\SolidWorks Training Files\API Fundamentals\Lesson11 - Notifications\Case Study\Completed\DotNetNotifications\DotNetNotifications\obj\Debug\SwVBAddin1.xml
+C:\SolidWorks Training Files\API Fundamentals\Lesson11 - Notifications\Case Study\Completed\DotNetNotifications\DotNetNotifications\obj\Debug\DotNetNotifications.pdb
