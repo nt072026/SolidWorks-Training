@@ -1,0 +1,16 @@
+C:\SolidWorks Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\bin\CustomSWAddin.dll
+C:\SolidWorks Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\bin\CustomSWAddin.pdb
+C:\SolidWorks Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\bin\SwVBAddin1.xml
+C:\SolidWorks Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\bin\CustomSWAddin.tlb
+C:\SolidWorks Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\bin\SolidWorksTools.dll
+C:\SolidWorks Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\obj\Debug\CustomSWAddin.dll
+C:\SolidWorks Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\obj\Debug\SwVBAddin1.xml
+C:\SolidWorks Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\obj\Debug\CustomSWAddin.pdb
+D:\2017 Manuals\API Fundamentals\Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\bin\CustomSWAddin.dll
+D:\2017 Manuals\API Fundamentals\Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\bin\CustomSWAddin.pdb
+D:\2017 Manuals\API Fundamentals\Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\bin\SwVBAddin1.xml
+D:\2017 Manuals\API Fundamentals\Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\bin\CustomSWAddin.tlb
+D:\2017 Manuals\API Fundamentals\Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\bin\SolidWorksTools.dll
+D:\2017 Manuals\API Fundamentals\Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\obj\Debug\CustomSWAddin.dll
+D:\2017 Manuals\API Fundamentals\Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\obj\Debug\SwVBAddin1.xml
+D:\2017 Manuals\API Fundamentals\Training Files\API Fundamentals\Lesson10 - Customizing the User Interface with VB.NET\Case Study\Completed\CustomSWAddin\CustomSWAddin\obj\Debug\CustomSWAddin.pdb
